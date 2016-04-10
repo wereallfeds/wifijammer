@@ -10,7 +10,7 @@ Installation
 
 Usage
 -----
-###Simple
+####Simple
 ``` shell
 python wifijammer.py
 ```
